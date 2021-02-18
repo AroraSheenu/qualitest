@@ -13,3 +13,5 @@ edit first name
 new name- sarora
 click save
 quit.
+
+///Screenshots are sent to Mia in a email
